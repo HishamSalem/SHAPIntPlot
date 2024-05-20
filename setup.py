@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     description='A package for SHAP value interaction analysis and visualization',
     author='Your Name',
-    author_email='your.email@example.com',
+    author_email='hishamsalem99@hotmail.com',
     url='https://github.com/HishamSalem/SHAP_Interactions',
     packages=find_packages(),
     install_requires=[
