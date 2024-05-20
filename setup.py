@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_shap_package',
+    name='SHAPIntPlot',
     version='0.1.0',
     description='A package for SHAP value interaction analysis and visualization',
     author='Your Name',
